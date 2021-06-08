@@ -18,8 +18,8 @@ Contributions are always welcome😁!
   
 ## Authors
 
-- [@sauvejeanluc](https://www.https://twitter.com/sauvejeanLuc)
-- [@DushimimanaSam8](https://www.https://twitter.com/DushimimanaSam8)
+- [@sauvejeanluc](twitter.com/sauvejeanLuc)
+- [@DushimimanaSam8](twitter.com/DushimimanaSam8)
 
   
 ## Acknowledgements
