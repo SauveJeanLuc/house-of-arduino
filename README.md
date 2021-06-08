@@ -1,7 +1,7 @@
 
 # House of Arduino
 
-If there have ever been a house where Arduino codes resides, This is the one.
+If there has ever been a house where Arduino codes resides, This is the one.
 
 
 ## Contributing
