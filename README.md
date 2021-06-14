@@ -24,4 +24,4 @@ Contributions are always welcome😁!
   
 ## Acknowledgements
 
- - [Tutorials and Sample code](https://foreach.benax.rw/)
+ - [JavaCord Docs & Library](https://javacord.org/)
