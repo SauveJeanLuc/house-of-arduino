@@ -21,7 +21,7 @@ Contributions are always welcome😁!
 - [@sauvejeanluc](https://www.twitter.com/sauvejeanLuc)
 - [@DushimimanaSam8](https://www.twitter.com/DushimimanaSam8)
 
-  
+ 
 ## Acknowledgements
 
- - [JavaCord Docs & Library](https://javacord.org/)
+ - [Tutorials and Sample code](https://foreach.benax.rw/)
