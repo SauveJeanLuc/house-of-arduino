@@ -34,8 +34,6 @@ void setup(){
 
 }
 
-void
-
 
 void loop(){
 
@@ -155,17 +153,9 @@ bool saveBalanceToCard(byte blockNumber, byte writingBuffer[]){
 
   }
 
-  else{
-
-    //Serial.println(F("PCD_Authenticate() success: "));
-
-  }
-
 
 
   // Write block
-
-
 
   card_status = mfrc522.MIFARE_Write(blockNumber, writingBuffer, 16);
 
@@ -240,7 +230,7 @@ void operateData(byte blockNumber, String initialBalance){
 
   /*
 
-   * This servers to add spaces to the typed text in order to fill up to 16 characters
+   * This serve to add spaces to the typed text in order to fill up to 16 characters
 
   */
 
